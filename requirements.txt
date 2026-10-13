@@ -1,0 +1,7 @@
+gradio>=5.49,<6
+requests>=2.32,<3
+python-dotenv>=1.0,<2
+Pillow>=10,<13
+opencv-python-headless>=4.10,<5
+mutagen>=1.47,<2
+pytest>=8,<10
